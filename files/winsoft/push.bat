@@ -6,4 +6,4 @@ git commit -m "Auto-update torrents [%date% %time%]"
 git push origin main
 echo.
 echo =============== Done! ===============
-timeout /t 3
+timeout /t 30
